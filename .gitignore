@@ -1,0 +1,4 @@
+.env
+*__pycache__
+busca/__pycache__
+database/__pycache__
